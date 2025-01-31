@@ -6,7 +6,7 @@ package edu.cmu.cs.cs214.rec04;
  * with the current size, which goes down when an element is removed)
  * and exports an accessor (totalAdded) for this count.
  *
- * @author Nora Shoemaker
+ * @author Heng Jiang
  *
  */
 
